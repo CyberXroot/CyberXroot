@@ -1,12 +1,12 @@
 <h1 align="center">Hi there! 👋 I'm Dave</h1>
 <p align="center">
-  <i>Hacker in training 🔐</i>
+  <i>Aspiring Cybersecurity Engineer 🔐</i>
 </p>
 
 ## 🌟 About Me
-- 🌱 Currently focusing on cybersecurity
-- 🔨 I enjoy discovering new hacking tools
-- 🎯 Goal: IT Support → Cybersecurity Analyst → Cybersecurity Engineer
+- 🌱 Currently focusing on cybersecurity and IT
+- 🔨 I enjoy problem solving
+- 🎯 Goal: IT Support → SOC Analyst → Cybersecurity Engineer
 
 ## 🛠️ Tools & Skills
 <p align="center">
