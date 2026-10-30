@@ -13,7 +13,4 @@
 
 ## 🛠️ Tools & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,windows,mysql&theme=dark" height="48" />
-  <img src="assets/nmap.png" height="48" />
-  <img src="assets/burp.png" height="48" />
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,windows" height="48" />
