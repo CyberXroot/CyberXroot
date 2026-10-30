@@ -9,7 +9,7 @@
 ## 🌟 About Me
 - 🔐 Cybersecurity student documenting hands-on labs in Linux, Windows, and networking
 - 🎯 Goal: IT Support → SOC Analyst → Cybersecurity Engineer
-- 🌐 Long-term interest: web application security
+- 🌐 Long-term interest: Detection Engineering
 
 ## 🛠️ Tools & Skills
 <p align="center">
