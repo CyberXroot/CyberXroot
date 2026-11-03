@@ -17,8 +17,37 @@
 
   
 ## 📁 Projects
-- [Windows Remote Desktop (RDP)](https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/Remote-Desktop-RDP): remote access from Kali Linux to a Windows 11 VM
-- [Local Users and Groups](https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/Local-Users-and-Groups): user and permission management on Windows
-- [Windows services](https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/windows-service-management-print-spooler): diagnosed and fixed a misconfigured Windows service using Services, PowerShell, and Event Viewer
+> `$ ls ~/IT-Home-Lab/Windows`
 
-[Full portfolio →](https://github.com/CyberXroot/IT-Home-Lab)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🖥️ Remote Desktop (RDP)</h3>
+      <p>Remote access from Kali Linux to a Windows 11 VM</p>
+      <img src="https://img.shields.io/badge/RDP-00FF9C?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/Kali-00FF9C?style=flat-square&logo=kalilinux&logoColor=black" />
+      <br><br>
+      <a href="https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/Remote-Desktop-RDP">View lab →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>👥 Users & Groups</h3>
+      <p>User and permission management on Windows</p>
+      <img src="https://img.shields.io/badge/Windows-00FF9C?style=flat-square&logo=windows&logoColor=black" />
+      <img src="https://img.shields.io/badge/Permissions-00FF9C?style=flat-square&logoColor=black" />
+      <br><br>
+      <a href="https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/Local-Users-and-Groups">View lab →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛠️ Print Spooler Recovery</h3>
+      <p>Diagnosed and fixed a misconfigured Windows service</p>
+      <img src="https://img.shields.io/badge/PowerShell-00FF9C?style=flat-square&logo=powershell&logoColor=black" />
+      <img src="https://img.shields.io/badge/Event%20Viewer-00FF9C?style=flat-square&logoColor=black" />
+      <br><br>
+      <a href="https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/windows-service-management-print-spooler">View lab →</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/CyberXroot/IT-Home-Lab"><img src="https://img.shields.io/badge/Full%20Portfolio-IT--Home--Lab-00FF9C?style=for-the-badge&logo=github&logoColor=black" /></a>
+</p>
