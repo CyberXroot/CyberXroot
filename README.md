@@ -9,7 +9,7 @@
 >
 > `$ cat goals.txt` → IT Support → SOC Analyst → Cybersecurity Engineer
 >
-> `$ cat interests.txt` → Web application security
+> `$ cat interests.txt` → Detection Engineering
 
 ## 🛠️ Tools & Skills
 <p align="center">
