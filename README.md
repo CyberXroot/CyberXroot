@@ -95,7 +95,7 @@
 ## 🧑‍💻 A little more about me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=00FF9C&background=0D1117&center=true&vCenter=true&width=700&height=70&repeat=true&lines=~%24+sudo+apt+install+knowledge;~%24+nmap+-sV+-p-+target+%23+learning+in+progress;~%24+tail+-f+%2Fvar%2Flog%2Fauth.log+%23+spotting+the+bad+guys;~%24+echo+%22Learn+it%2C+break+it%2C+fix+it%2C+document+it.%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=00FF9C&background=0D1117&center=true&vCenter=true&width=700&height=70&repeat=true&lines=~%24+sudo+apt+install+knowledge;~%24+nmap+-sV+-p-+target+%23+learning+in+progress;~%24+tail+-f+%2Fvar%2Flog%2Fauth.log+%23+spotting+the+bad+guys" />
 </p>
 
 <p align="center">
