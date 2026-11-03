@@ -85,11 +85,8 @@
 ## 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CyberXroot&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberXroot&bg_color=0d1117&color=00FF9C&line=0A7F55&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=CyberXroot&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&icon_color=0A7F55&ring_color=00FF9C&count_private=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CyberXroot&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" height="165" />
 </p>
 
 ## 🧑‍💻 A little more about me
