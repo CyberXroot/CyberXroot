@@ -84,16 +84,9 @@
 
 ## 📈 Skill Progress
 
-> `$ cat skills.txt`
-
-```
-Windows Administration  ████████████░░░░░░░░  60%
-Linux Administration    ██████████░░░░░░░░░░  50%
-Troubleshooting         ████████████░░░░░░░░  60%
-Networking              ██████░░░░░░░░░░░░░░  30%
-Scripting (PowerShell)  ██████░░░░░░░░░░░░░░  30%
-SIEM & Detection        ██░░░░░░░░░░░░░░░░░░  10%
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CyberXroot/CyberXroot/main/skills.svg" width="100%" />
+</p>
 
 ## 🧑‍💻 A little more about me
 
