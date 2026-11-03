@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff9f" />
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9f" />
-  <img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows11&logoColor=00ff9f" />
+  <img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows10&logoColor=00ff9f" />
   <img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff9f" />
   <br>
   <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff9f" />
