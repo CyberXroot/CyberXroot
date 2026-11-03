@@ -82,24 +82,18 @@
   </tr>
 </table>
 
-## 📊 Lab Activity
+## 📈 Skill Progress
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/t/CyberXroot/IT-Home-Lab?style=for-the-badge&label=Total%20Commits&color=0A7F55&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/last-commit/CyberXroot/IT-Home-Lab?style=for-the-badge&label=Last%20Update&color=0A7F55&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/repo-size/CyberXroot/IT-Home-Lab?style=for-the-badge&label=Repo%20Size&color=0A7F55&labelColor=0d1117" />
-</p>
+> `$ cat skills.txt`
 
-## 🗺️ Roadmap
-
-> `$ cat progress.txt`
-
-| Stage | Status |
-|---|---|
-| Windows administration labs | ![](https://img.shields.io/badge/-In%20progress-00FF9C?style=flat-square&labelColor=0d1117) |
-| Linux administration labs | ![](https://img.shields.io/badge/-In%20progress-00FF9C?style=flat-square&labelColor=0d1117) |
-| Networking labs (Wireshark, Nmap) | ![](https://img.shields.io/badge/-Planned-0A7F55?style=flat-square&labelColor=0d1117) |
-| SIEM and detection labs | ![](https://img.shields.io/badge/-Planned-0A7F55?style=flat-square&labelColor=0d1117) |
+```
+Windows Administration  ████████████░░░░░░░░  60%
+Linux Administration    ██████████░░░░░░░░░░  50%
+Troubleshooting         ████████████░░░░░░░░  60%
+Networking              ██████░░░░░░░░░░░░░░  30%
+Scripting (PowerShell)  ██████░░░░░░░░░░░░░░  30%
+SIEM & Detection        ██░░░░░░░░░░░░░░░░░░  10%
+```
 
 ## 🧑‍💻 A little more about me
 
