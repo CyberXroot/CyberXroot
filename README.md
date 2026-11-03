@@ -13,4 +13,12 @@
 
 ## 🛠️ Tools & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,windows" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,windows" height="48" </p>
+
+  
+## 📁 Projects
+- [Windows Remote Desktop (RDP)](https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/Remote-Desktop-RDP): remote access from Kali Linux to a Windows 11 VM
+- [Local Users and Groups](https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/Local-Users-and-Groups): user and permission management on Windows
+- [Windows services](https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/windows-service-management-print-spooler): diagnosed and fixed a misconfigured Windows service using Services, PowerShell, and Event Viewer
+
+[Full portfolio →](https://github.com/CyberXroot/IT-Home-Lab)
