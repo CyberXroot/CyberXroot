@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Dave 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0A7F55,100:00FF9C&height=220&section=header&text=Hi,%20I'm%20Dave&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20Detection%20Engineering&descSize=18&descAlignY=58" width="100%" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=700&height=40&lines=Future+Detection+Engineer;Learning+by+building+and+documenting+labs" />
@@ -13,9 +15,9 @@
 
 ## 🛠️ Tools & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,windows" height="48" </p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,windows&theme=dark" height="48" />
+</p>
 
-  
 ## 📁 Projects
 
 > `$ ls ~/IT-Home-Lab/Windows`
@@ -53,4 +55,8 @@
 
 <p align="center">
   <a href="https://github.com/CyberXroot/IT-Home-Lab"><img src="https://img.shields.io/badge/Full%20Portfolio-IT--Home--Lab-0A7F55?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:0A7F55,100:0d1117&height=120&section=footer" width="100%" />
 </p>
