@@ -28,7 +28,7 @@
 - [ ] Land a first IT support role
 - [ ] Build my own SaaS product
 - [ ] Become a SOC analyst
-- [ ] Specialize in web application security
+- [ ] Specialize in web application security or detection engineering
 
 ## 🛠️ Tools & Skills
 
