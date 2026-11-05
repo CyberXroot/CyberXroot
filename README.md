@@ -57,14 +57,14 @@
   <tr>
     <td width="25%" valign="top">
       <h3>🔒 NTFS Permissions</h3>
-      <p>Folder access control on Windows with icacls, tested across users</p>
+      <p>Folder access control with icacls, tested per user</p>
       <img src="https://img.shields.io/badge/NTFS-0A7F55?style=flat-square" />
       <img src="https://img.shields.io/badge/PowerShell-0A7F55?style=flat-square" />
       <br><br>
       <a href="https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/ntfs-permissions-icacls">View lab →</a>
     </td>
     <td width="25%" valign="top">
-      <h3>🖥️ Remote Desktop (RDP)</h3>
+      <h3>🖥️ Remote Desktop</h3>
       <p>Remote access from Kali Linux to a Windows 11 VM</p>
       <img src="https://img.shields.io/badge/RDP-0A7F55?style=flat-square" />
       <img src="https://img.shields.io/badge/Kali-0A7F55?style=flat-square" />
