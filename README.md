@@ -82,12 +82,6 @@
   </tr>
 </table>
 
-## 📈 Skill Progress
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CyberXroot/CyberXroot/main/skills.svg" width="100%" />
-</p>
-
 ## 🧑‍💻 A little more about me
 
 <p align="center">
