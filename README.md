@@ -54,8 +54,8 @@
 > `$ ls ~/IT-Home-Lab/Windows`
 
 <table>
-    <tr>
-    <td width="33%" valign="top">
+  <tr>
+    <td width="25%" valign="top">
       <h3>🔒 NTFS Permissions</h3>
       <p>Folder access control on Windows with icacls, tested across users</p>
       <img src="https://img.shields.io/badge/NTFS-0A7F55?style=flat-square" />
@@ -63,7 +63,7 @@
       <br><br>
       <a href="https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/ntfs-permissions-icacls">View lab →</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>🖥️ Remote Desktop (RDP)</h3>
       <p>Remote access from Kali Linux to a Windows 11 VM</p>
       <img src="https://img.shields.io/badge/RDP-0A7F55?style=flat-square" />
@@ -71,7 +71,7 @@
       <br><br>
       <a href="https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/Remote-Desktop-RDP">View lab →</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>👥 Users & Groups</h3>
       <p>User and permission management on Windows</p>
       <img src="https://img.shields.io/badge/Windows-0A7F55?style=flat-square" />
@@ -79,8 +79,8 @@
       <br><br>
       <a href="https://github.com/CyberXroot/IT-Home-Lab/tree/main/Windows/Local-Users-and-Groups">View lab →</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>🛠️ Windows Services </h3>
+    <td width="25%" valign="top">
+      <h3>🛠️ Windows Services</h3>
       <p>Diagnosed and fixed a misconfigured Windows service</p>
       <img src="https://img.shields.io/badge/PowerShell-0A7F55?style=flat-square" />
       <img src="https://img.shields.io/badge/Event%20Viewer-0A7F55?style=flat-square" />
